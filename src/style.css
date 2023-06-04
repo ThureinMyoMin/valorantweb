@@ -801,7 +801,9 @@ object-fit: cover;
   .infotext p {
     font-size: 1.4rem;
   }
-  
+  .infoimg {
+    justify-content: left;
+  }
   .platforms p {
     font-size: 1rem;
   }
